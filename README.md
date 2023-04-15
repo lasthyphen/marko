@@ -1,11 +1,8 @@
-# Dillinger
-## _The Last Markdown Editor, Ever_
+# Marko
 
 [![N|Solid](https://cldup.com/dTxpPi9lDf.thumb.png)](https://nodesource.com/products/nsolid)
 
-[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
-
-Dillinger is a cloud-enabled, mobile-ready, offline-storage compatible,
+Marko is a cloud-enabled, mobile-ready, offline-storage compatible,
 AngularJS-powered HTML5 Markdown editor.
 
 - Type some Markdown on the left
@@ -17,7 +14,7 @@ AngularJS-powered HTML5 Markdown editor.
 - Import a HTML file and watch it magically convert to Markdown
 - Drag and drop images (requires your Dropbox account be linked)
 - Import and save files from GitHub, Dropbox, Google Drive and One Drive
-- Drag and drop markdown and HTML files into Dillinger
+- Drag and drop markdown and HTML files into Marko
 - Export documents as Markdown, HTML and PDF
 
 Markdown is a lightweight markup language based on the formatting conventions
@@ -38,7 +35,7 @@ watch the results in the right.
 
 ## Tech
 
-Dillinger uses a number of open source projects to work properly:
+Marko uses a number of open source projects to work properly:
 
 - [AngularJS] - HTML enhanced for web apps!
 - [Ace Editor] - awesome web-based text editor
@@ -51,12 +48,12 @@ Dillinger uses a number of open source projects to work properly:
 to Markdown converter
 - [jQuery] - duh
 
-And of course Dillinger itself is open source with a [public repository][dill]
+And of course Marko itself is open source with a [public repository][dill]
  on GitHub.
 
 ## Installation
 
-Dillinger requires [Node.js](https://nodejs.org/) v10+ to run.
+Marko requires [Node.js](https://nodejs.org/) v10+ to run.
 
 Install the dependencies and devDependencies and start the server.
 
